@@ -3,12 +3,12 @@
 
 @media screen and (min-width: 768px) and (max-width: 992px){
     body{
-        background-image: linear-gradient(to top,#49a09d, rgba(77, 73, 73, 0.671), #9a63be);
+        background-image: linear-gradient(to top,#49a09d, #9a63be);
     }
 
     section#login{
         width: 80vw;
-        height: 280px;
+        height: 320px;
     }
 
     section#login > div#imagem{
@@ -30,7 +30,7 @@
 
     section#login{
         width: 950px;
-        height: 350px;
+        height: 321px;
     }
 
     section#login > div#imagem{
